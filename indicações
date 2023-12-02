@@ -1,0 +1,4 @@
+Result true = vitoria
+Result false = derrota
+Opponent hand 0 = direita
+Opponent hand 1 = esquerda
